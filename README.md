@@ -4,29 +4,22 @@ This project involved a detailed Exploratory Data Analysis of Myntra's product d
 
 # Key Insights
 
-**Product Inventory:**
+- **Product Inventory:**
 * Total Products: 176K
-*Total Brands: 1508
+* Total Brands: 1508
 
-**Gender Breakdown:**
+- **Gender Breakdown:**
 * Women’s products: 63.41%
 * Men’s products: 36.59%
 
-**Top-Rated Brands:** Urbanic, Puma, H&M, Roadster, and others have maximum (5-star) ratings.
-
-**Popular Categories:** T-shirts dominate in men’s segment; tops and dresses are popular among women.
-
-**High Stock Brands:** Brands like Pothys, Roadster, Kalini, and Here & Now have the most products.
-
-**Ratings Distribution:** Ratings are left-skewed — many products rated near 5, indicating good perceived quality.
-
-**Ratings vs Reviews:**
-
-* Ratings between 3.5 to 4.7 attract the highest number of reviews.
-
-* Products with low ratings (<2.5) see fewer reviews and lower engagement.
-
-**In category section : **
+- **Top-Rated Brands:** Urbanic, Puma, H&M, Roadster, and others have maximum (5-star) ratings.
+- **Popular Categories:** T-shirts dominate in men’s segment; tops and dresses are popular among women.
+- **High Stock Brands:** Brands like Pothys, Roadster, Kalini, and Here & Now have the most products.
+- **Ratings Distribution:** Ratings are left-skewed — many products rated near 5, indicating good perceived quality.
+- **Ratings vs Reviews:**
+  * Ratings between 3.5 to 4.7 attract the highest number of reviews.
+  * Products with low ratings (<2.5) see fewer reviews and lower engagement.
+- **In category section :**
 * plus size has highest average rating than other category
 * Indian wear , western wear has have the most products
 
