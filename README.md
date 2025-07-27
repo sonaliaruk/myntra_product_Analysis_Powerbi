@@ -2,6 +2,8 @@
 # About the Dashboard: Myntra Product Analysis
 This project involved a detailed Exploratory Data Analysis of Myntra's product dataset using Power BI. It provided key insights into brand performance, product categories, gender preferences, and customer ratings, helping identify opportunities for improved marketing and inventory strategies.
 
+This project aims to analyze Myntra's product data to understand brand variety, product volume, gender-wise distribution, and customer preferences for better business decisions."
+
 # Key Insights
 
 - **Product Inventory:**
@@ -28,3 +30,5 @@ This project involved a detailed Exploratory Data Analysis of Myntra's product d
 * Improve or phase out products with low ratings and low review counts.
 * Focus campaigns on the large number of women’s products, while also encouraging growth in men’s products.
 * Promote the highest-rated brands to attract more customers and build trust.
+
+This project is a great example of how data-driven insights can enhance product strategy, improve customer targeting, and boost brand engagement for fashion retail platforms like Myntra. 👗📊
