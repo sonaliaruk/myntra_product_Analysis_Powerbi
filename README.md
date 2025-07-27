@@ -40,5 +40,5 @@ This project is a great example of how data-driven insights can enhance product 
 
 Here is a preview of the Power BI dashboard:
 
-
+![Power Bi Dashboard](https://github.com/sonaliaruk/myntra_product_Analysis_Powerbi/blob/main/Dashboard_Screenshot.png)
 
