@@ -3,8 +3,10 @@
 This project involved a detailed Exploratory Data Analysis of Myntra's product dataset using Power BI. It provided key insights into brand performance, product categories, gender preferences, and customer ratings, helping identify opportunities for improved marketing and inventory strategies.
 
 🔍This project aims to analyze Myntra's product data to understand brand variety, product volume, gender-wise distribution, and customer preferences for better business decisions."
+
 **📥 Dataset Source:**
 This dataset was sourced from **Kaggle**
+
 # Key Insights 🌟
 
 - **Product Inventory:**
