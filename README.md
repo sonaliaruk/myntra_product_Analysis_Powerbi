@@ -35,3 +35,10 @@ This dataset was sourced from **Kaggle**
 * Promote the highest-rated brands to attract more customers and build trust.
 
 This project is a great example of how data-driven insights can enhance product strategy, improve customer targeting, and boost brand engagement for fashion retail platforms like Myntra. 👗📊
+
+## 📊 Power BI Report Screenshot
+
+Here is a preview of the Power BI dashboard:
+
+
+
