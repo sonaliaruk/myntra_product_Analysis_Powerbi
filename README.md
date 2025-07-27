@@ -36,7 +36,7 @@ This dataset was sourced from **Kaggle**
 
 This project is a great example of how data-driven insights can enhance product strategy, improve customer targeting, and boost brand engagement for fashion retail platforms like Myntra. 👗📊
 
-## 📊 Power BI Report Screenshot
+## 📊 Myntra Product Dashboard Screenshot
 
 Here is a preview of the Power BI dashboard:
 
