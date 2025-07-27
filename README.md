@@ -2,20 +2,20 @@
 # About the Dashboard: Myntra Product Analysis
 This project involved a detailed Exploratory Data Analysis of Myntra's product dataset using Power BI. It provided key insights into brand performance, product categories, gender preferences, and customer ratings, helping identify opportunities for improved marketing and inventory strategies.
 
-This project aims to analyze Myntra's product data to understand brand variety, product volume, gender-wise distribution, and customer preferences for better business decisions."
+🔍This project aims to analyze Myntra's product data to understand brand variety, product volume, gender-wise distribution, and customer preferences for better business decisions."
 
-# Key Insights
+# Key Insights 🌟
 
 - **Product Inventory:**
   * Total Products: 176K
   * Total Brands: 1508
 - **Gender Breakdown:**
-  * Women’s products: 63.41%
-  * Men’s products: 36.59%
+  * Women’s products: 63.41% 👧
+  * Men’s products: 36.59% 👦
 - **Top-Rated Brands:** Urbanic, Puma, H&M, Roadster, and others have maximum (5-star) ratings.
-- **Popular Categories:** T-shirts dominate in men’s segment; tops and dresses are popular among women.
+- **Popular Categories:** T-shirts dominate in men’s segment; tops and dresses 👗 are popular among women.
 - **High Stock Brands:** Brands like Pothys, Roadster, Kalini, and Here & Now have the most products.
-- **Ratings Distribution:** Ratings are left-skewed — many products rated near 5, indicating good perceived quality.
+- **Ratings Distribution:** Ratings are left-skewed 📊— many products rated near 5, indicating good perceived quality.
 - **Ratings vs Reviews:**
   * Ratings between 3.5 to 4.7 attract the highest number of reviews.
   * Products with low ratings (<2.5) see fewer reviews and lower engagement.
